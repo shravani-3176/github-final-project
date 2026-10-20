@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple calculator that calculates simple interest given the principal amount, annual rate of interest, and time period in years.
+A simple calculator that calculates simple interest given the principal amount, annual rate of interest, and time peroid in years.
 
 ## Purpose
 
